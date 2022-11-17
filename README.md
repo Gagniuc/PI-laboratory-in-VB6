@@ -7,4 +7,3 @@ A sequence of digits that never ends and never exhibits any clear patterns, is s
 # References
 
 - <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
-
